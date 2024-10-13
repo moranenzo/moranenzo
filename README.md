@@ -1,11 +1,14 @@
 ## Hi there 👋
 
+👋 I'm Enzo, a student at ENSAE Paris, passionate about coding and problem-solving. I love tackling challenges, learning new technologies, and collaborating on exciting projects.
+🔭 I'm currently working on a programming project as part of my second year at ENSAE Paris with some friends of mine.
+ 📫 You can reach me by email at enzo.moran@ensae.fr or on LinkedIn at linkedin.com/in/enzo-moran. Let's connect and create something great together! 🚀
+
 <!--
 **moranenzo/moranenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
