@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student developer from Paris</h3>
 
 - 👋 I'm a passionate about coding and problem-solving. I love tackling challenges, learning new technologies, and collaborating on exciting projects.
-- 🔭 I'm currently working on a programming project as part of my second year at **ENSAE Paris** with some friends of mine.
+- 🔭 I'm currently working on a project to develop a music genre detector based on song lyrics as part of my second year at **ENSAE Paris**, with some friends of mine.
 - 📫 You can reach me by email at enzo.moran@ensae.fr or on [LinkedIn](https://www.linkedin.com/in/enzo-moran-66b7ba283/). Let's connect and create something great together! 🚀
 
 <h4 align="left">Connect with me:</h3>
