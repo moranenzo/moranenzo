@@ -27,9 +27,9 @@
 
 
 <div style="margin-bottom: 40px;">
-  <h3><a href="https://github.com/moranenzo/PY-Music-Genre-Classifier" target="_blank">Music Genre Classifier</a></h3>
+  <h3><a href="https://github.com/moranenzo/PY-Optimal-Transport-Median" target="_blank">Optimal Transport Median</a></h3>
   <ul>
-      <li><strong>About: </strong>This project is focused on defining a multivariate median for datasets where the median is not explicitly known. The methodology leverages optimal transport theory <a href="https://github.com/moranenzo/PY-Music-Genre-Classifier" target="_blank">Check it out here!</a></li>
+      <li><strong>About: </strong>This project is focused on defining a multivariate median for datasets where the median is not explicitly known. The methodology leverages optimal transport theory <a href="https://github.com/moranenzo/PY-Optimal-Transport-Median" target="_blank">Check it out here!</a></li>
       <li><strong>Technologies used: </strong>Python, Optimal transport, data processing</li>
   </ul>
 </div>
