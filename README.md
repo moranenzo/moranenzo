@@ -23,7 +23,7 @@
 
 <h1 align="left">My Projects</h1>
 
-<p>Here are some of the projects I have worked on. Feel free to explore each one!</p>
+<p>Here are some of the things I have worked on. Feel free to explore each one!</p>
 
 </br>
 
