@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student developer from Paris</h3>
 
 - 👋 I'm a passionate about coding and problem-solving. I love tackling challenges, learning new technologies, and collaborating on exciting projects.
-- 🔭 I'm currently working on a project to develop a music genre detector thanks to Machine Learning as part of my second year at **ENSAE Paris**, with some friends of mine.
+- 🔭 I'm currently working on a project to develop a music genre classifier thanks to Machine Learning as part of my second year at **ENSAE Paris**, with some friends of mine.
 - 📫 You can reach me by email at enzo.moran@ensae.fr or on [LinkedIn](https://www.linkedin.com/in/enzo-moran-66b7ba283/). Let's connect and create something great together! 🚀
 
 <h4 align="left">Connect with me:</h3>
@@ -27,36 +27,36 @@
 
 
 <div style="margin-bottom: 40px;">
-  <h3>Tile Arrangement Solver :</h3>
-  <p>
-    This project is designed to solve a tile arrangement puzzle using different algorithms like BFS and A*. It includes a graphical user interface (GUI) built with Pygame.
-  </p>
-  <p><strong>Technologies used:</strong> Python, Pygame, BFS, A* Algorithm</p>
-  <p>Check it out on <a href="https://github.com/moranenzo/PY-Tile-Arrangement-Solver" target="_blank">GitHub</a>!</p>
+  <h3><a href="https://github.com/moranenzo/PY-Music-Genre-Classifier" target="_blank">Music Genre Classifier</a></h3>
+  <ul>
+      <li><strong>About: </strong>This project is focused on defining a multivariate median for datasets where the median is not explicitly known. The methodology leverages optimal transport theory <a href="https://github.com/moranenzo/PY-Music-Genre-Classifier" target="_blank">Check it out here!</a></li>
+      <li><strong>Technologies used: </strong>Python, Optimal transport, data processing</li>
+  </ul>
 </div>
 
 
 <div style="margin-bottom: 40px;">
-  <h3>Radical Right and Gender Gap</h3>
-  <p>
-    A research project examining the influence of the radical right on gender equality. The project uses statistical analysis to evaluate socio-political factors.
-  </p>
-  <p><strong>Technologies used:</strong> R, Statistical Analysis</p>
-  <a href="https://github.com/username/project3" target="_blank">
-    <img src="https://img.shields.io/badge/Project-Source%20Code-blue" alt="Source Code Badge">
-  </a>
-  <p>Check it out on <a href="https://github.com/moranenzo/SAS-Radical-Right-Gender-Gap" target="_blank">GitHub</a>!</p>
+  <h3><a href="https://github.com/moranenzo/PY-Tile-Arrangement-Solver" target="_blank">Tile Arrangement Solver</a></h3>
+  <ul>
+      <li><strong>About: </strong>This project is designed to solve a tile arrangement puzzle using different algorithms like BFS and A*. It includes a graphical user interface (GUI) built with Pygame. <a href="https://github.com/moranenzo/PY-Tile-Arrangement-Solver" target="_blank">Check it out here!</a></li>
+      <li><strong>Technologies used: </strong>Python, Pygame, BFS, A* Algorithm</li>
+  </ul>
+</div>
+
+
+<div style="margin-bottom: 40px;">
+  <h3><a href="https://github.com/moranenzo/SAS-Radical-Right-Gender-Gap" target="_blank">Radical Right and Gender Gap</a></h3>
+  <ul>
+      <li><strong>About: </strong>A research project examining the influence of the radical right on gender equality. The project uses statistical analysis to evaluate socio-political factors. <a href="https://github.com/moranenzo/SAS-Radical-Right-Gender-Gap" target="_blank">Check it out here!</a></li>
+      <li><strong>Technologies used: </strong>R, Statistical Analysis</li>
+  </ul>
 </div>
 
 
 <div style="margin-bottom: 40px;">
   <h3><a href="https://github.com/moranenzo/TIPE-Contactless-Smart-Cards" target="_blank">Contactless Smart Cards</a></h3>
-  <p>
-    This project involves developing a system for contactless smart cards with a focus on secure communication and data exchange. 
-  </p>
-  <p><strong>Technologies used:</strong> Arduino, Python, RFID</p>
-  <a href="https://github.com/moranenzo/TIPE-Contactless-Smart-Cards" target="_blank">
-    <img src="https://img.shields.io/badge/Project-Source%20Code-blue" alt="Source Code Badge">
-  </a>
-  <p>Check it out on <a href="https://github.com/moranenzo/TIPE-Contactless-Smart-Cards" target="_blank">GitHub</a>!</p>
+  <ul>
+      <li><strong>About: </strong>This project involves developing a system for contactless smart cards with a focus on secure communication and data exchange. <a href="https://github.com/moranenzo/TIPE-Contactless-Smart-Cards" target="_blank">Check it out here!</a></li>
+      <li><strong>Technologies used: </strong>Arduino, Python, RFID</li>
+  </ul>
 </div>
