@@ -27,20 +27,17 @@
 
 
 <div style="margin-bottom: 40px;">
-  <h3><a href="https://github.com/moranenzo/PY-Tile-Arrangement-Solver" target="_blank">Tile Arrangement Solver</a></h3>
+  <h3>Tile Arrangement Solver :</h3>
   <p>
     This project is designed to solve a tile arrangement puzzle using different algorithms like BFS and A*. It includes a graphical user interface (GUI) built with Pygame.
   </p>
   <p><strong>Technologies used:</strong> Python, Pygame, BFS, A* Algorithm</p>
-  <a href="https://github.com/username/project1" target="_blank">
-    <img src="https://img.shields.io/badge/Project-Source%20Code-blue" alt="Source Code Badge">
-  </a>
   <p>Check it out on <a href="https://github.com/moranenzo/PY-Tile-Arrangement-Solver" target="_blank">GitHub</a>!</p>
 </div>
 
 
 <div style="margin-bottom: 40px;">
-  <h3><a href="https://github.com/moranenzo/SAS-Radical-Right-Gender-Gap" target="_blank">Radical Right and Gender Gap</a></h3>
+  <h3>Radical Right and Gender Gap</h3>
   <p>
     A research project examining the influence of the radical right on gender equality. The project uses statistical analysis to evaluate socio-political factors.
   </p>
