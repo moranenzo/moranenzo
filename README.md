@@ -25,36 +25,44 @@
 
 <p>Here are some of the projects I have worked on. Feel free to explore each one!</p>
 
+</br>
 
 <div style="margin-bottom: 40px;">
-  <h3><a href="https://github.com/moranenzo/PY-Optimal-Transport-Median" target="_blank">Optimal Transport Median</a></h3>
+  <a href="https://github.com/moranenzo/PY-Optimal-Transport-Median">
+    <img src="social_previews/social_preview_otm.png" alt="Optimal Transport Median" height="150"></a>
   <ul>
       <li><strong>About: </strong>This project is focused on defining a multivariate median for datasets where the median is not explicitly known. The methodology leverages optimal transport theory <a href="https://github.com/moranenzo/PY-Optimal-Transport-Median" target="_blank">Check it out here!</a></li>
       <li><strong>Technologies used: </strong>Python, Optimal transport, data processing</li>
   </ul>
 </div>
 
+</br>
 
 <div style="margin-bottom: 40px;">
-  <h3><a href="https://github.com/moranenzo/PY-Tile-Arrangement-Solver" target="_blank">Tile Arrangement Solver</a></h3>
+  <a href="https://github.com/moranenzo/PY-Tile-Arrangement-Solver">
+    <img src="social_previews/social_preview_tas.png" alt="Tile Arrangement Solver" height="150"></a>
   <ul>
       <li><strong>About: </strong>This project is designed to solve a tile arrangement puzzle using different algorithms like BFS and A*. It includes a graphical user interface (GUI) built with Pygame. <a href="https://github.com/moranenzo/PY-Tile-Arrangement-Solver" target="_blank">Check it out here!</a></li>
       <li><strong>Technologies used: </strong>Python, Pygame, BFS, A* Algorithm</li>
   </ul>
 </div>
 
+</br>
 
 <div style="margin-bottom: 40px;">
-  <h3><a href="https://github.com/moranenzo/SAS-Radical-Right-Gender-Gap" target="_blank">Radical Right and Gender Gap</a></h3>
+  <a href="https://github.com/moranenzo/SAS-Radical-Right-Gender-Gap">
+    <img src="social_previews/social_preview_rrgg.png" alt="Radical Right and Gender Gap" height="150"></a>
   <ul>
       <li><strong>About: </strong>A research project examining the influence of the radical right on gender equality. The project uses statistical analysis to evaluate socio-political factors. <a href="https://github.com/moranenzo/SAS-Radical-Right-Gender-Gap" target="_blank">Check it out here!</a></li>
       <li><strong>Technologies used: </strong>R, Statistical Analysis</li>
   </ul>
 </div>
 
+</br>
 
 <div style="margin-bottom: 40px;">
-  <h3><a href="https://github.com/moranenzo/TIPE-Contactless-Smart-Cards" target="_blank">Contactless Smart Cards</a></h3>
+  <a href="https://github.com/moranenzo/TIPE-Contactless-Smart-Cards">
+    <img src="social_previews/social_preview_rfid.png" alt="Contactless Smart Cards" height="150"></a>
   <ul>
       <li><strong>About: </strong>This project involves developing a system for contactless smart cards with a focus on secure communication and data exchange. <a href="https://github.com/moranenzo/TIPE-Contactless-Smart-Cards" target="_blank">Check it out here!</a></li>
       <li><strong>Technologies used: </strong>Arduino, Python, RFID</li>
