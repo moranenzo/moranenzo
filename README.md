@@ -28,10 +28,21 @@
 </br>
 
 <div style="margin-bottom: 40px;">
+  <a href="https://github.com/moranenzo/PY-Music-Genre-Classifier">
+    <img src="social_previews/social_preview_mgc.png" alt="Music Genre Classifier" height="150"></a>
+  <ul>
+      <li><strong>About: </strong>This project predicts music genres based on audio features extracted from Spotify's API. It relies on supervised learning models such as RandomForest, XGBoost, and CatBoost. <a href="https://github.com/moranenzo/PY-Music-Genre-Classifier" target="_blank">Check it out here!</a></li>
+      <li><strong>Technologies used: </strong>Python, Machine Learning, data processing</li>
+  </ul>
+</div>
+
+</br>
+
+<div style="margin-bottom: 40px;">
   <a href="https://github.com/moranenzo/PY-Optimal-Transport-Median">
     <img src="social_previews/social_preview_otm.png" alt="Optimal Transport Median" height="150"></a>
   <ul>
-      <li><strong>About: </strong>This project is focused on defining a multivariate median for datasets where the median is not explicitly known. The methodology leverages optimal transport theory <a href="https://github.com/moranenzo/PY-Optimal-Transport-Median" target="_blank">Check it out here!</a></li>
+      <li><strong>About: </strong>This project is focused on defining a multivariate median for datasets where the median is not explicitly known. The methodology leverages optimal transport theory. <a href="https://github.com/moranenzo/PY-Optimal-Transport-Median" target="_blank">Check it out here!</a></li>
       <li><strong>Technologies used: </strong>Python, Optimal transport, data processing</li>
   </ul>
 </div>
