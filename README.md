@@ -11,12 +11,14 @@
   </li>
 </ul>
 
+<!-- CONTACT -->
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/moranenzo/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13930&format=png" alt="moranenzo" height="50" width="50" /></a>
 <a href="mailto:enzo.moran@ensae.fr" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/10505/10505896.png" alt="enzo-moran" height="40" width="40" /></a>
 </p>
 
+<!-- TOOLS -->
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -27,6 +29,14 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/></a>
 </p>
 
+<!-- GITHUB STATS -->
+<p>
+  <img align="left" src="https://nirzak-streak-stats.vercel.app/?user=moranenzo&theme=dark" alt="moranenzo" />
+</p>
+<br clear="both" />
+
+
+<!-- PROJECTS -->
 <h1 align="left">My Projects</h1>
 
 <p>Here are some projects I’ve worked on. Check them out!</p>
