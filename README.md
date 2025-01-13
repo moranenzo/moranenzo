@@ -1,4 +1,7 @@
+<!-- TITLE -->
 <h1 align="left">Hi 👋, I'm Enzo</h1>
+
+<!-- SUBTITLE -->
 <h3 align="center">A curious student developer who loves to explore and build cool things</h3>
 
 <ul>
