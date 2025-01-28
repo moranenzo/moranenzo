@@ -88,7 +88,7 @@
   <ul>
       <li><strong>What it's about:</strong> Analyzing the gender gap in political support for the radical right using statistical methods. 
       <a href="https://github.com/moranenzo/SAS-Radical-Right-Gender-Gap" target="_blank">Learn more!</a></li>
-      <li><strong>Tech stack:</strong> R, Statistical Analysis, Data Visualization</li>
+      <li><strong>Tech stack:</strong> R, Data Visualization, Statistical Analysis</li>
   </ul>
 </div>
 
