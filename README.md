@@ -1,5 +1,15 @@
 <!-- TITLE -->
-<h1 align="left">Hi 👋, I'm Enzo</h1>
+<h1 align="left">Enzo Moran</h1>
+
+<p align="left">
+Hi ! I'm Enzo, a second-year student at <strong>ENSAE Paris</strong> and I'm into data science, machine learning, and creative coding. <br>
+Feel free to connect if you have a cool project idea, a question on one of my projects or what ever else !
+</p>
+
+<p align="left">
+Below are projects either academic from my studies at ENSAE Paris or more personnal.
+</p>
+
 
 <!-- SUBTITLE -->
 <h3 align="center">A curious student developer who loves to explore and build cool things</h3>
