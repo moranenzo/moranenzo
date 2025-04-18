@@ -2,7 +2,7 @@
 <h1 align="left">Enzo Moran</h1>
 
 <p align="left">
-Hi ! I'm Enzo, a second-year student at <strong>ENSAE Paris</strong> and I'm into data science, machine learning, and creative coding. <br>
+Hi ! I'm Enzo, a second-year student at <strong>ENSAE Paris</strong>, and I'm into data science, machine learning, and creative coding. <br>
 Feel free to drop me a message at <a href="mailto:enzo.moran@ensae.fr">enzo.moran@ensae.fr</a> or find me on <a href="https://www.linkedin.com/in/enzo-moran-66b7ba283/">LinkedIn</a> if you have a cool project idea, a question on one of my projects or what ever else !
 </p>
 
@@ -10,51 +10,8 @@ Feel free to drop me a message at <a href="mailto:enzo.moran@ensae.fr">enzo.mora
 Below are projects either academic from my studies at ENSAE Paris or more personnal.
 </p>
 
-
-<!-- SUBTITLE -->
-<h3 align="center">A curious student developer who loves to explore and build cool things</h3>
-
-<ul>
-  <li>👨‍💻 I’m into coding, problem-solving, and learning new stuff. I enjoy diving into challenges and figuring things out along the way.</li>
-  <li>🎵 I just wrapped up a fun project with friends where we built a 
-    <a href="https://github.com/moranenzo/PY-Music-Genre-Classifier">music genre classifier</a>. It uses Machine Learning and Spotify's API. We did this as part of our second year at <strong>ENSAE Paris</strong>.
-  </li>
-  <li>📫 Feel free to drop me a message at <a href="mailto:enzo.moran@ensae.fr">enzo.moran@ensae.fr</a> or find me on 
-    <a href="https://www.linkedin.com/in/enzo-moran-66b7ba283/">LinkedIn</a>. Got ideas or just want to say hi? Let’s chat! 🎉
-  </li>
-</ul>
-
-<!-- CONTACT -->
-<h4 align="left">You can connect with me here:</h4>
-<p align="left">
-<a href="https://www.linkedin.com/in/moranenzo/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13930&format=png" alt="moranenzo" height="50" width="50" /></a>
-<a href="mailto:enzo.moran@ensae.fr" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/10505/10505896.png" alt="enzo-moran" height="40" width="40" /></a>
-</p>
-
-<!-- TOOLS -->
-<h4 align="left">There are the tools and languages I master:</h4>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/></a>
-</p>
-
-<!-- GITHUB STATS -->
-<p>
-  <img align="left" src="https://nirzak-streak-stats.vercel.app/?user=moranenzo&theme=dark" alt="moranenzo" />
-</p>
-<br clear="both" />
-
-
 <!-- PROJECTS -->
-<h1 align="left">My Projects</h1>
-
-<p>Here are some projects I’ve worked on. Check them out!</p>
-
-</br>
+<h1 align="left">Projects</h1>
 
 <div style="margin-bottom: 40px;">
   <a href="https://github.com/moranenzo/PY-Music-Genre-Classifier">
@@ -72,7 +29,7 @@ Below are projects either academic from my studies at ENSAE Paris or more person
   <a href="https://github.com/moranenzo/PY-Optimal-Transport-Median">
     <img src="social_previews/social_preview_otm.png" alt="Optimal Transport Median" height="150"></a>
   <ul>
-      <li><strong>What it's about:</strong> Using optimal transport theory to define a robust and meaningful median for multivariate datasets. 
+      <li><strong>What it's about:</strong> Using optimal transport theory to define a median for multivariate datasets. 
       <a href="https://github.com/moranenzo/PY-Optimal-Transport-Median" target="_blank">Check it out!</a></li>
       <li><strong>Tech stack:</strong> Python, Optimal Transport, Data Science, Mathematical Optimization</li>
   </ul>
