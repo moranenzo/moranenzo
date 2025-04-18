@@ -3,7 +3,7 @@
 
 <p align="left">
 Hi ! I'm Enzo, a second-year student at <strong>ENSAE Paris</strong>, and I'm into data science, machine learning, and creative coding. <br>
-Feel free to drop me a message at <a href="mailto:enzo.moran@ensae.fr">enzo.moran@ensae.fr</a> or find me on <a href="https://www.linkedin.com/in/enzo-moran-66b7ba283/">LinkedIn</a> if you have a cool project idea, a question on one of my projects or what ever else !
+Feel free to reach out at <a href="mailto:enzo.moran@ensae.fr">enzo.moran@ensae.fr</a> or connect with me on <a href="https://www.linkedin.com/in/enzo-moran-66b7ba283/">LinkedIn</a>, whether you have a cool project in mind, a question about my work, or just want to chat!
 </p>
 
 <p align="left">
