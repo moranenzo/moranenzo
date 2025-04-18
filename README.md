@@ -7,7 +7,7 @@ Feel free to drop me a message at <a href="mailto:enzo.moran@ensae.fr">enzo.mora
 </p>
 
 <p align="left">
-Below are projects either academic from my studies at ENSAE Paris or more personnal.
+Below are projects from both academic work at ENSAE Paris and personal initiatives.
 </p>
 
 <!-- PROJECTS -->
