@@ -2,7 +2,7 @@
 <h1 align="left">Enzo Moran</h1>
 
 <p align="left">
-Hi ! I'm Enzo, a second-year student at <strong>ENSAE Paris</strong>, and I'm into data science, machine learning, and creative coding. <br>
+Hi ! I'm Enzo, a second-year student at <strong>ENSAE Paris</strong>, and I'm into data science and machine learning. <br>
 Feel free to reach out at <a href="mailto:enzo.moran@ensae.fr">enzo.moran@ensae.fr</a> or connect with me on <a href="https://www.linkedin.com/in/enzo-moran-66b7ba283/">LinkedIn</a>, whether you have a cool project in mind, a question about my work, or just want to chat!
 </p>
 
