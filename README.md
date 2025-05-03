@@ -7,6 +7,10 @@ Feel free to reach out at <a href="mailto:enzo.moran@ensae.fr">enzo.moran@ensae.
 </p>
 
 <p align="left">
+I'm currently working with ENGIE on a gaz consumption prediction model. You can take a look <a href="https://github.com/moranenzo/PY-Music-Genre-Classifier" target="_blank">here</a></li>.
+</p>
+
+<p align="left">
 Below are projects from both academic work at ENSAE Paris and personal initiatives.
 </p>
 
