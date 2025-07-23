@@ -18,11 +18,11 @@ Below are projects from both academic work at ENSAE Paris and personal initiativ
 <h1 align="left">Projects</h1>
 
 <div style="margin-bottom: 40px;">
-  <a href="https://github.com/moranenzo/PY-Music-Genre-Classifier">
+  <a href="https://github.com/moranenzo/Music-Genre-Classifier">
     <img src="social_previews/social_preview_mgc.png" alt="Music Genre Classifier" height="150"></a>
   <ul>
       <li><strong>What it's about:</strong> Predicting music genres based on audio features from Spotify’s API. Includes models like RandomForest, XGBoost, and CatBoost. 
-      <a href="https://github.com/moranenzo/PY-Music-Genre-Classifier" target="_blank">Repo here</a></li>
+      <a href="https://github.com/moranenzo/Music-Genre-Classifier" target="_blank">Repo here</a></li>
       <li><strong>Tech stack:</strong> Python, Machine Learning, Data Preprocessing, Spotify API</li>
   </ul>
 </div>
@@ -30,11 +30,11 @@ Below are projects from both academic work at ENSAE Paris and personal initiativ
 </br>
 
 <div style="margin-bottom: 40px;">
-  <a href="https://github.com/moranenzo/PY-Optimal-Transport-Median">
+  <a href="https://github.com/moranenzo/Optimal-Transport-Median">
     <img src="social_previews/social_preview_otm.png" alt="Optimal Transport Median" height="150"></a>
   <ul>
       <li><strong>What it's about:</strong> Using optimal transport theory to define a median for multivariate datasets. 
-      <a href="https://github.com/moranenzo/PY-Optimal-Transport-Median" target="_blank">Repo here</a></li>
+      <a href="https://github.com/moranenzo/Optimal-Transport-Median" target="_blank">Repo here</a></li>
       <li><strong>Tech stack:</strong> Python, Optimal Transport, Data Science, Mathematical Optimization</li>
   </ul>
 </div>
@@ -42,11 +42,11 @@ Below are projects from both academic work at ENSAE Paris and personal initiativ
 </br>
 
 <div style="margin-bottom: 40px;">
-  <a href="https://github.com/moranenzo/PY-Tile-Arrangement-Solver">
+  <a href="https://github.com/moranenzo/Tile-Arrangement-Solver">
     <img src="social_previews/social_preview_tas.png" alt="Tile Arrangement Solver" height="150"></a>
   <ul>
       <li><strong>What it's about:</strong> Solving a tile arrangement puzzle using BFS and A* algorithms, with a GUI built in Pygame. 
-      <a href="https://github.com/moranenzo/PY-Tile-Arrangement-Solver" target="_blank">Repo here</a></li>
+      <a href="https://github.com/moranenzo/Tile-Arrangement-Solver" target="_blank">Repo here</a></li>
       <li><strong>Tech stack:</strong> Python, Pygame, Algorithms (BFS, A*), Graph Theory</li>
   </ul>
 </div>
@@ -54,11 +54,11 @@ Below are projects from both academic work at ENSAE Paris and personal initiativ
 </br>
 
 <div style="margin-bottom: 40px;">
-  <a href="https://github.com/moranenzo/SAS-Radical-Right-Gender-Gap">
+  <a href="https://github.com/moranenzo/Radical-Right-Gender-Gap">
     <img src="social_previews/social_preview_rrgg.png" alt="Radical Right and Gender Gap" height="150"></a>
   <ul>
       <li><strong>What it's about:</strong> Analyzing the gender gap in political support for the radical right using statistical methods. 
-      <a href="https://github.com/moranenzo/SAS-Radical-Right-Gender-Gap" target="_blank">Repo here</a></li>
+      <a href="https://github.com/moranenzo/Radical-Right-Gender-Gap" target="_blank">Repo here</a></li>
       <li><strong>Tech stack:</strong> R, Statistical Analysis, Data Visualization</li>
   </ul>
 </div>
