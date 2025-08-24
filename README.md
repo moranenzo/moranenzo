@@ -7,7 +7,7 @@ Feel free to reach out at <a href="mailto:enzo.moran@ensae.fr">enzo.moran@ensae.
 </p>
 
 <p align="left">
-I'm currently working with ENGIE on a gas consumption prediction model. You can take a look <a href="https://github.com/moranenzo/PY-Music-Genre-Classifier" target="_blank">here</a></li>.
+I just completed a project where I clustered IRIS using Wasserstein K-means and income data as part of my internship at CREST. You can check it out <a href="https://github.com/moranenzo/Wasserstein-IRIS-Clustering" target="_blank">here</a>.
 </p>
 
 <p align="left">
@@ -16,6 +16,18 @@ Below are projects from both academic work at ENSAE Paris and personal initiativ
 
 <!-- PROJECTS -->
 <h1 align="left">Projects</h1>
+
+<div style="margin-bottom: 40px;">
+  <a href="https://github.com/moranenzo/Wasserstein-IRIS-Clustering">
+    <img src="social_previews/social_preview_wic.png" alt="Wasserstein IRIS Clustering" height="150"></a>
+  <ul>
+      <li><strong>What it's about:</strong> Applying Wasserstein K-Means to cluster IRIS (small geographical units defined by INSEE) based on income and age distributions.
+      <a href="https://github.com/moranenzo/Wasserstein-IRIS-Clustering" target="_blank">Repo here</a></li>
+      <li><strong>Tech stack:</strong> Python, Machine Learning, Optimal Transport</li>
+  </ul>
+</div>
+
+</br>
 
 <div style="margin-bottom: 40px;">
   <a href="https://github.com/moranenzo/Music-Genre-Classifier">
